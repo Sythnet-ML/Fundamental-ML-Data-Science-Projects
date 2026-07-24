@@ -19,7 +19,7 @@ You will learn:
 - **Exploratory Data Analysis** -- visualizations and statistical insights
 - **Machine Learning** -- classification, regression, and anomaly detection
 
-### [Fundamentals Project](FUNDAMENTAL%20PROJECTS)
+### [Fundamental Projects](FUNDAMENTAL%20PROJECTS)
 
 Get comfortable with pandas, sklearn, and basic ML workflows.
 
