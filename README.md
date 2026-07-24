@@ -1,4 +1,4 @@
-<h1 align='center'>Beginner Data Science / Machine Learning Projects</h1>
+<h1 align='center'>Beginner Data Science/Machine Learning Projects</h1>
 <p align='center'>
 <img src='asset\ml-e1610553826718.jpg' alt='Image Preview' width=500>
 
